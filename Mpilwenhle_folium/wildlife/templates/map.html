@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+    var properties = {properties:safe};
+
+    // Initialize the map
+    var map = L.map('map').setView([-29.873888, 30.961568], 10);
+
+    // Add basemap options
+    var basemaps = {
+        'OpenStreetMap': L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'),
+        'CartoDB Dark Matter': L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png'),
+        'CartoDB Positron': L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png'),
+        'CartoDB Positron Only Labels': L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png'),
+    };
+
+    // Add default basemap
+    basemaps['OpenStreetMap'].addTo(map);
+
+    // Add Property features to the map
+    properties.forEach(function(property) {
+        var geometry = JSON.parse(property.geometry);
+        var fillColor = property.property_type === 'Private' ? 'red' : 'blue';
+
+        var feature = L.geoJSON(geometry, {
+            style: {
+                fillColor: fillColor,
+                color: 'white',
+                weight: 2,
+            },
+        });
+
+        // Add popup with property details
+        feature.bindPopup('<strong>Name:</strong> ' + property.name + '<br><strong>Type:</strong> ' + property.property_type);
+
+        feature.addTo(map);
+    });
+
+    // Add control to view/hide Property features
+    var propertyControl = L.control.layers(null, {'Properties': feature}).addTo(map);
+
+    // Add control to switch basemaps
+    L.control.layers(basemaps, null, { position: 'topright' }).addTo(map);
+</script>
+{% endblock %}

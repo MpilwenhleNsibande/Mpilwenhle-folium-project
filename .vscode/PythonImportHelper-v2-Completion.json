@@ -1,0 +1,594 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "OSMGeoAdmin",
+        "importPath": "django.contrib.gis.admin",
+        "description": "django.contrib.gis.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.admin",
+        "documentation": {}
+    },
+    {
+        "label": "format_html",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "Organisation",
+        "importPath": "wildlife.models",
+        "description": "wildlife.models",
+        "isExtraImport": true,
+        "detail": "wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "Property",
+        "importPath": "wildlife.models",
+        "description": "wildlife.models",
+        "isExtraImport": true,
+        "detail": "wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyType",
+        "importPath": "wildlife.models",
+        "description": "wildlife.models",
+        "isExtraImport": true,
+        "detail": "wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "Province",
+        "importPath": "wildlife.models",
+        "description": "wildlife.models",
+        "isExtraImport": true,
+        "detail": "wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "TaxonRank",
+        "importPath": "wildlife.models",
+        "description": "wildlife.models",
+        "isExtraImport": true,
+        "detail": "wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "Taxon",
+        "importPath": "wildlife.models",
+        "description": "wildlife.models",
+        "isExtraImport": true,
+        "detail": "wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "AnnualPopulation",
+        "importPath": "wildlife.models",
+        "description": "wildlife.models",
+        "isExtraImport": true,
+        "detail": "wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.contrib.gis.db",
+        "description": "django.contrib.gis.db",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.db",
+        "documentation": {}
+    },
+    {
+        "label": "MultiPolygon",
+        "importPath": "django.contrib.gis.geos",
+        "description": "django.contrib.gis.geos",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.geos",
+        "documentation": {}
+    },
+    {
+        "label": "GEOSGeometry",
+        "importPath": "django.contrib.gis.geos",
+        "description": "django.contrib.gis.geos",
+        "isExtraImport": true,
+        "detail": "django.contrib.gis.geos",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.asgi",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-$+&1$t7ix*ijiqep6!nqrigf1_!_n!)o2#36#7z=+2#g+-4-1s\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-$+&1$t7ix*ijiqep6!nqrigf1_!_n!)o2#36#7z=+2#g+-4-1s\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"wildlife\",",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"wildlife\",\n]\nMIDDLEWARE = [",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"Mpilwenhle_folium.urls\"",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "ROOT_URLCONF = \"Mpilwenhle_folium.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"Mpilwenhle_folium.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.urls",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path('', include(\"wildlife.urls\")),\n]",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.Mpilwenhle_folium.wsgi",
+        "description": "Mpilwenhle_folium.Mpilwenhle_folium.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Mpilwenhle_folium.Mpilwenhle_folium.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyAdmin",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.admin",
+        "description": "Mpilwenhle_folium.wildlife.admin",
+        "peekOfCode": "class PropertyAdmin(OSMGeoAdmin):\n    list_display = ('name', 'property_type', 'geometry', 'display_color')  # Include 'display_color' in list_display\n    list_filter = ('property_type',)\n    def get_marker_color(self, obj):\n        return 'red' if obj.property_type.name == 'Private' else 'blue' if obj.property_type.name == 'Community' else 'black'\n    def display_color(self, obj):\n        color = 'red' if obj.property_type.name == 'Private' else 'blue' if obj.property_type.name == 'Community' else 'black'\n        return format_html(\n            '<div style=\"width: 20px; height: 20px; border: 2px solid {}; background-color: {};\"></div>',\n            color,",
+        "detail": "Mpilwenhle_folium.wildlife.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProvinceAdmin",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.admin",
+        "description": "Mpilwenhle_folium.wildlife.admin",
+        "peekOfCode": "class ProvinceAdmin(admin.ModelAdmin):\n    def get_queryset(self, request):\n        queryset = super().get_queryset(request)\n        return queryset.filter(Q(organisation__isnull=False) | Q(property__isnull=False)).distinct()\nadmin.site.register(Province, ProvinceAdmin)",
+        "detail": "Mpilwenhle_folium.wildlife.admin",
+        "documentation": {}
+    },
+    {
+        "label": "WildlifeConfig",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.apps",
+        "description": "Mpilwenhle_folium.wildlife.apps",
+        "peekOfCode": "class WildlifeConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"wildlife\"",
+        "detail": "Mpilwenhle_folium.wildlife.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyType",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.models",
+        "description": "Mpilwenhle_folium.wildlife.models",
+        "peekOfCode": "class PropertyType(models.Model):\n    name = models.CharField(max_length=250, unique=True)\n    def __str__(self):\n        return self.name\n    class Meta:\n        verbose_name = 'Property type'\n        verbose_name_plural = 'Property types'\n        db_table = 'property_type'\nclass Province(models.Model):\n    name = models.CharField(max_length=100, unique=True)",
+        "detail": "Mpilwenhle_folium.wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "Province",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.models",
+        "description": "Mpilwenhle_folium.wildlife.models",
+        "peekOfCode": "class Province(models.Model):\n    name = models.CharField(max_length=100, unique=True)\n    short_code = models.CharField(\n        max_length=50,\n        null=False,\n        blank=True\n    )\n    def __str__(self):\n        return self.name\n    class Meta:",
+        "detail": "Mpilwenhle_folium.wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "Organisation",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.models",
+        "description": "Mpilwenhle_folium.wildlife.models",
+        "peekOfCode": "class Organisation(models.Model):\n    name = models.CharField(unique=True, max_length=250)\n    short_code = models.CharField(\n        max_length=50,\n        null=False,\n        blank=True\n    )\n    national = models.BooleanField(null=True, blank=True)\n    province = models.ForeignKey(\n        Province,",
+        "detail": "Mpilwenhle_folium.wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "Property",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.models",
+        "description": "Mpilwenhle_folium.wildlife.models",
+        "peekOfCode": "class Property(models.Model):\n    name = models.CharField(max_length=300, unique=True)\n    short_code = models.CharField(\n        max_length=50,\n        null=False,\n        blank=True\n    )\n    province = models.ForeignKey(Province, on_delete=models.DO_NOTHING)\n    property_type = models.ForeignKey(\n        PropertyType, on_delete=models.DO_NOTHING",
+        "detail": "Mpilwenhle_folium.wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "TaxonRank",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.models",
+        "description": "Mpilwenhle_folium.wildlife.models",
+        "peekOfCode": "class TaxonRank(models.Model):\n    name = models.CharField(max_length=250, unique=True)\n    # def __str__(self):\n    # return self.name\n    class Meta:\n        verbose_name = \"Taxon Rank\"\n        verbose_name_plural = \"Taxon Ranks\"\nclass Taxon(models.Model):\n    scientific_name = models.CharField(max_length=250, unique=True)\n    common_name_varbatim = models.CharField(",
+        "detail": "Mpilwenhle_folium.wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "Taxon",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.models",
+        "description": "Mpilwenhle_folium.wildlife.models",
+        "peekOfCode": "class Taxon(models.Model):\n    scientific_name = models.CharField(max_length=250, unique=True)\n    common_name_varbatim = models.CharField(\n        max_length=250,\n        null=True, blank=True\n    )\n    taxon_rank = models.ForeignKey(\n        TaxonRank,\n        on_delete=models.CASCADE,\n        null=True,",
+        "detail": "Mpilwenhle_folium.wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "AnnualPopulation",
+        "kind": 6,
+        "importPath": "Mpilwenhle_folium.wildlife.models",
+        "description": "Mpilwenhle_folium.wildlife.models",
+        "peekOfCode": "class AnnualPopulation(models.Model):\n    year = models.PositiveIntegerField()\n    total = models.IntegerField()\n    adult_male = models.IntegerField(null=True, blank=True)\n    adult_female = models.IntegerField(null=True, blank=True)\n    juvenile_male = models.IntegerField(null=True, blank=True)\n    juvenile_female = models.IntegerField(null=True, blank=True)\n    note = models.TextField(null=True, blank=True)\n    user = models.ForeignKey(\n        User,",
+        "detail": "Mpilwenhle_folium.wildlife.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.wildlife.urls",
+        "description": "Mpilwenhle_folium.wildlife.urls",
+        "peekOfCode": "app_name = 'wildlife'\nurlpatterns = [\n    path('organisations_list/', views.organisation_list, name='organisation_list'),\n    path('organisations_detail/<int:pk>/', views.organisation_detail, name='organisation_detail'),\n    path('properties_list/', views.property_list, name='property_list'),\n    path('properties_detail/<int:pk>/', views.property_detail, name='property_detail'),\n    path('map/', views.map_view, name='map_view'),\n    path('admin/', admin.site.urls),\n    path('', include(\"wildlife.urls\")),\n]",
+        "detail": "Mpilwenhle_folium.wildlife.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Mpilwenhle_folium.wildlife.urls",
+        "description": "Mpilwenhle_folium.wildlife.urls",
+        "peekOfCode": "urlpatterns = [\n    path('organisations_list/', views.organisation_list, name='organisation_list'),\n    path('organisations_detail/<int:pk>/', views.organisation_detail, name='organisation_detail'),\n    path('properties_list/', views.property_list, name='property_list'),\n    path('properties_detail/<int:pk>/', views.property_detail, name='property_detail'),\n    path('map/', views.map_view, name='map_view'),\n    path('admin/', admin.site.urls),\n    path('', include(\"wildlife.urls\")),\n]",
+        "detail": "Mpilwenhle_folium.wildlife.urls",
+        "documentation": {}
+    },
+    {
+        "label": "organisation_list",
+        "kind": 2,
+        "importPath": "Mpilwenhle_folium.wildlife.views",
+        "description": "Mpilwenhle_folium.wildlife.views",
+        "peekOfCode": "def organisation_list(request):\n    organisations = Organisation.objects.all()\n    return render(request, 'wildlife/organisation_list.html', {'organisations': organisations})\ndef organisation_detail(request, pk):\n    organisation = Organisation.objects.get(pk=pk)\n    return render(request, 'wildlife/organisation_detail.html', {'organisation': organisation})\ndef property_list(request):\n    properties = Property.objects.all()\n    return render(request, 'wildlife/property_list.html', {'properties': properties})\ndef property_detail(request, pk):",
+        "detail": "Mpilwenhle_folium.wildlife.views",
+        "documentation": {}
+    },
+    {
+        "label": "organisation_detail",
+        "kind": 2,
+        "importPath": "Mpilwenhle_folium.wildlife.views",
+        "description": "Mpilwenhle_folium.wildlife.views",
+        "peekOfCode": "def organisation_detail(request, pk):\n    organisation = Organisation.objects.get(pk=pk)\n    return render(request, 'wildlife/organisation_detail.html', {'organisation': organisation})\ndef property_list(request):\n    properties = Property.objects.all()\n    return render(request, 'wildlife/property_list.html', {'properties': properties})\ndef property_detail(request, pk):\n    property = Property.objects.get(pk=pk)\n    return render(request, 'wildlife/property_detail.html', {'property': property})\ndef map_view(request):",
+        "detail": "Mpilwenhle_folium.wildlife.views",
+        "documentation": {}
+    },
+    {
+        "label": "property_list",
+        "kind": 2,
+        "importPath": "Mpilwenhle_folium.wildlife.views",
+        "description": "Mpilwenhle_folium.wildlife.views",
+        "peekOfCode": "def property_list(request):\n    properties = Property.objects.all()\n    return render(request, 'wildlife/property_list.html', {'properties': properties})\ndef property_detail(request, pk):\n    property = Property.objects.get(pk=pk)\n    return render(request, 'wildlife/property_detail.html', {'property': property})\ndef map_view(request):\n    properties = Property.objects.all()\n    # Pass properties to the template\n    context = {'properties': properties}",
+        "detail": "Mpilwenhle_folium.wildlife.views",
+        "documentation": {}
+    },
+    {
+        "label": "property_detail",
+        "kind": 2,
+        "importPath": "Mpilwenhle_folium.wildlife.views",
+        "description": "Mpilwenhle_folium.wildlife.views",
+        "peekOfCode": "def property_detail(request, pk):\n    property = Property.objects.get(pk=pk)\n    return render(request, 'wildlife/property_detail.html', {'property': property})\ndef map_view(request):\n    properties = Property.objects.all()\n    # Pass properties to the template\n    context = {'properties': properties}\n    return render(request, 'map.html', context)",
+        "detail": "Mpilwenhle_folium.wildlife.views",
+        "documentation": {}
+    },
+    {
+        "label": "map_view",
+        "kind": 2,
+        "importPath": "Mpilwenhle_folium.wildlife.views",
+        "description": "Mpilwenhle_folium.wildlife.views",
+        "peekOfCode": "def map_view(request):\n    properties = Property.objects.all()\n    # Pass properties to the template\n    context = {'properties': properties}\n    return render(request, 'map.html', context)",
+        "detail": "Mpilwenhle_folium.wildlife.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Mpilwenhle_folium.manage",
+        "description": "Mpilwenhle_folium.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"Mpilwenhle_folium.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Mpilwenhle_folium.manage",
+        "documentation": {}
+    }
+]
